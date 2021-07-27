@@ -117,3 +117,9 @@ web3.utils.fromWei(tokenBalance) | Shows the new Balance: '42'
 
 ### Require
 * Convenience Function that guarantees Vailidity of Conditions that cannot be detected before Execution
+
+### Struct
+* Struct Types are used to represent a Record and allow to create own Data Types
+
+### Enum
+* Enums restrict a Variable to have on of predefined Values
